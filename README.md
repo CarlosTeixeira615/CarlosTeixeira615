@@ -1,4 +1,4 @@
-### HEllo Word.   🚀 🚀
+### Hello Word.   🚀 🚀
 
 Sou Carlos Silva, desenvolvedor React, React-Native, trabalhando no ecossistema React.
 Sempre em busca de aprimoramento e novos conhecimentos para construir melhores soluções através de apps ...
