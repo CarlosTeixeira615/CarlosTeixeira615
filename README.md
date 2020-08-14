@@ -5,7 +5,3 @@ Always looking for improvement and new knowledge to build better solutions throu
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosTeixeira615&show_icons=true&theme=vue-dark )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTeixeira615&layout=compact)](https://github.com/CarlosTeixeira615/github-readme-stats)
-
-                  
-
